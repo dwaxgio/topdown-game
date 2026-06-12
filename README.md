@@ -1,6 +1,6 @@
-# Vampire Survivor Game
+# Top Down Game Vector
 
-A Vampire Survivors-like game built with Phaser 3 and TypeScript.
+A top-down action game with wave-based enemy spawning, automatic combat system, and progression mechanics built with Phaser 3 and TypeScript.
 
 ## Features
 
@@ -112,6 +112,14 @@ Potential features to add:
 
 MIT
 
+## Screenshots
+
+### Gameplay
+![Gameplay](src/screenshots/1_game.jpg)
+
+### Game Over
+![Game Over](src/screenshots/2_game_over.jpg)
+
 ## Notes
 
-This is a simplified Vampire Survivors-like game for learning and entertainment purposes.
+This is a top-down action game with wave-based progression for learning and entertainment purposes.

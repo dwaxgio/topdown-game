@@ -1,7 +1,7 @@
 {
-  "name": "vampire-survivor-game",
+  "name": "topdown-game-vector",
   "version": "1.0.0",
-  "description": "A Vampire Survivors-like game built with Phaser 3 and TypeScript",
+  "description": "A top-down action game with wave-based spawning and progression mechanics built with Phaser 3 and TypeScript",
   "main": "dist/index.js",
   "scripts": {
     "start": "webpack serve --mode development",
